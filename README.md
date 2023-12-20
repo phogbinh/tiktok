@@ -1,2 +1,2 @@
 # tiktok
-`https://github.com/JoeanAmier/TikTokDownloader`
+`https://github.com/JoeanAmier/TikTokDownloader/releases/tag/4.2`
